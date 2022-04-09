@@ -3,7 +3,7 @@ package Laba_10.Task_2;
 import java.io.*;
 
 public class TaskModFile_2 {
-//Программа для записи данных из исходного файла, соответствующего определенному условию
+//Программа для записи данных из исходного файла, соответствующего определенному условию.
     public static void main(String[] args) {
         int countLine = 0;
         DataInputStream dataIn = null;
