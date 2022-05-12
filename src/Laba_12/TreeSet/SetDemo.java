@@ -58,7 +58,6 @@ public class SetDemo {
         return end - start;
     }
 
-
     private static long getRunningTimeRemoveFirst(TreeSet<String>treeSet){
         // точка начала отсчета времени выполнения программы
         long start = System.currentTimeMillis();

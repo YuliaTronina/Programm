@@ -107,7 +107,6 @@ public class ArrayListDemo {
         Random rand = new Random();
         list.get(rand.nextInt(8000000));
 
-
         // точка окончания отсчета времени выполнения программы
         long end = System.currentTimeMillis();
         // вывод в консоль времени выполнения блока кода содержащего операцию
@@ -140,7 +139,6 @@ public class ArrayListDemo {
 
         System.out.print("Время получения элемента по индексу - ");
         System.out.println(getRunningTimeGet(list));
-
     }
 
 }

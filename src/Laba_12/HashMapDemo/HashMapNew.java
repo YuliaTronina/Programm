@@ -6,7 +6,6 @@ import java.util.Random;
 public class HashMapNew {
 
 
-
     //Измеряем время создания коллекции из n элементов
     private static long getRunningTimeCreateHashMap(HashMap <Integer,String> mapNew){
         // точка начала отсчета времени выполнения программы
