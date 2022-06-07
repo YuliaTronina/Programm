@@ -13,6 +13,7 @@ public class Task1068 {
         int n = in.nextInt();
         int k=0;
 
+
         if(n>0){
             k=n;
         }

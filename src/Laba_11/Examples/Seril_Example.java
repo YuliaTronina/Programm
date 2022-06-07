@@ -56,9 +56,10 @@ public class Seril_Example{
             oos.close();
         }
 
-        catch (IOException e){
-               e.printStackTrace();
+        catch (IOException e) {
+            e.printStackTrace();
         }
+
     }
 
 

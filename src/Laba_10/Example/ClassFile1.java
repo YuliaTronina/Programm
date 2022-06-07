@@ -6,7 +6,7 @@ public class ClassFile1 {
     public static void main(String[] args) {
         try{
 
-            //Создание файла в текущей папке (гле расположен основной класс
+            //Создание файла в текущей папке (где расположен основной класс
             File f1 = new File("MyFile1.txt");
             f1.createNewFile();
             if (f1.exists()){
